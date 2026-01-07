@@ -1,2 +1,2 @@
 # 1.1LCD_WEATHER_DISPLAY_ARDUINO
-My First Arduino Uno Project originally meant for an OLED screen but I fried miine :[ so I made it with an LCD instead. Will improve in the future to have more features.
+My First Arduino Uno Project originally meant for an OLED screen but I fried miine :[ so I made it with an LCD instead. Will improve in the future to have more features. ALSO just for security purposes this version of the code does not have any of my personal credentials so if someone stubles accross my projects and wants to use it on their own you would need to fill out those parts in the secrets tab yourself + install some of the drivers needed for this project, but then again this is not a tutorial this is my own project so look up how to do it for yourself :).
